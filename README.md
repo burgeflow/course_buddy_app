@@ -1,6 +1,6 @@
-# coursebuddy
+# Coursebuddy
 
-A new Flutter project.
+A online courses app project.
 
 ## Getting Started
 
